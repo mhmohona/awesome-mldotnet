@@ -7,6 +7,7 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 * [Tutorial](#tutorial)
 * [Blog](#blog)
+* [Conference](#conference)
 
 
 ## Tutorial
