@@ -3,6 +3,7 @@
 A collection of awesome ML.NET tutorial, blog and book.
 
 
+
 ## Index
 
 * [Tutorial](#tutorial)
