@@ -3,7 +3,7 @@
 A collection of awesome ML.NET tutorial, blog and book.
 
 <p align="center">
-  <img src="/photos/MLdotNET.jpg">
+  <img width="600" height="300" src="/photos/MLdotNET.jpg">
 </p>
 
 
