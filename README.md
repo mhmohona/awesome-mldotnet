@@ -2,7 +2,10 @@
 
 A collection of awesome ML.NET tutorial, blog and book.
 
-![ML NET](https://user-images.githubusercontent.com/14244685/71355841-783aaa00-25aa-11ea-90de-1f75b26a4206.jpg)
+<p align="center">
+  <img width="600" height="200" src="![ML NET](https://user-images.githubusercontent.com/14244685/71355841-783aaa00-25aa-11ea-90de-1f75b26a4206.jpg)">
+</p>
+
 
 ## Index
 
