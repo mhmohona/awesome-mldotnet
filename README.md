@@ -2,7 +2,7 @@
 
 A collection of awesome ML.NET tutorial, blog and book.
 
-
+![ML NET](https://user-images.githubusercontent.com/14244685/71355841-783aaa00-25aa-11ea-90de-1f75b26a4206.jpg)
 
 ## Index
 
