@@ -33,6 +33,8 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [ML.NET](https://www.youtube.com/playlist?list=PLl_upHIj19Zy3o09oICOutbNfXj332czx) by Jon Wood
 * [How To Integrate ML NET with a Chat Bot](https://youtu.be/0T7P3VAh0GQ) by Microsoft Visual Studio
 * [Getting Started with Machine Learning and ML.NET](https://youtu.be/JNiz6IQrm-U) by Syed Shanu
+* [Trying something new: ML.NET and recognizing Jeff's hats!](https://youtu.be/AhdFwdZHi3M) by Jeffrey T. Fritz
+
 
 ## Projects
 
