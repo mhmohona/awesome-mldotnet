@@ -27,12 +27,12 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Tutorial
 
-* [ML.NET](https://www.youtube.com/playlist?list=PL1rZQsJPBU2TwElfOzqOsUW1yuxKNA091) by .NET Foundation
-* [Getting Started with Machine Learning and ML.NET](https://youtu.be/JNiz6IQrm-U?list=PLEwNZeKICpYmCo_Xdl4wejSleDz2liEJa) by Syed Shanu
+* [ML.NET](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUDTvk5XMNues09FnuB_D0u) by dotNET
 * [Machine Learning in .NET (ML.NET)](https://youtu.be/zXn10vy8F6E) by Microsoft Visual Studio
 * [Machine Learning Tutorial with ML.NET](https://www.youtube.com/playlist?list=PL9l1zUfnZkZntFn0NKtHiK9oI_iPrl7e1) by Kindson Munonye
 * [ML.NET](https://www.youtube.com/playlist?list=PLl_upHIj19Zy3o09oICOutbNfXj332czx) by Jon Wood
 * [How To Integrate ML NET with a Chat Bot](https://youtu.be/0T7P3VAh0GQ) by Microsoft Visual Studio
+* [Getting Started with Machine Learning and ML.NET](https://youtu.be/JNiz6IQrm-U) by Syed Shanu
 
 ## Projects
 
