@@ -55,7 +55,7 @@ A collection of awesome ML.NET tutorial, blog and book.
 ## Podcast
 
 * [Machine Learning With ML Dot NET](https://soundcloud.com/esc-podcast/machine-learning-with-ml-dot-net) by John Alexander,  Sr. Content Developer at Microsoft
-* [ml.net with chris lauren](#https://msdevshow.com/2018/11/ml-net-with-chris-lauren/) by Chris White Program Manager at Microsoft
+* [ML.Net with Chris Lauren](#https://msdevshow.com/2018/11/ml-net-with-chris-lauren) by Chris Lauren Program Manager at Microsoft
 
 ## Community 
 
