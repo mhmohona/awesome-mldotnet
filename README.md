@@ -9,9 +9,14 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Index
 
+* [Libraries](#libraries)
 * [Tutorial](#tutorial)
+* [Projects](#projects)
+* [Tools](#)
 * [Blog](#blog)
 * [Conference](#conference)
+* [Papers](#papers)
+* [Community](#community)
 
 
 ## Tutorial
