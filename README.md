@@ -6,6 +6,9 @@ A collection of awesome ML.NET tutorial, blog and book.
   <img width="600" height="300" src="/photos/MLdotNET.jpg">
 </p>
 
+## What is ML.Net?
+
+
 
 ## Index
 
@@ -50,6 +53,8 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Community 
 
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/ml.net)
+* [Reddit](https://www.reddit.com/r/MlDotNet/)
 
 
 
