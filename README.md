@@ -12,12 +12,14 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [Libraries](#libraries)
 * [Tutorial](#tutorial)
 * [Projects](#projects)
-* [Tools](#)
-* [Blog](#blog)
+* [Tools](#tools)
 * [Conference](#conference)
+* [Blog](#blog)
 * [Papers](#papers)
 * [Community](#community)
 
+
+## Libraries
 
 ## Tutorial
 
@@ -27,6 +29,10 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [Machine Learning Tutorial with ML.NET](https://www.youtube.com/playlist?list=PL9l1zUfnZkZntFn0NKtHiK9oI_iPrl7e1) by Kindson Munonye
 * [ML.NET](https://www.youtube.com/playlist?list=PLl_upHIj19Zy3o09oICOutbNfXj332czx) by Jon Wood
 * [How To Integrate ML NET with a Chat Bot](https://youtu.be/0T7P3VAh0GQ) by Microsoft Visual Studio
+
+## Projects
+
+## Tools
 
 ## Conference
 
@@ -39,4 +45,13 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [Introduction to Machine Learning and ML.NET - Part 1](https://www.codeproject.com/Articles/5245488/Introduction-to-Machine-Learning-and-ML-NET-Part-1) by Syed Shanu
 * [Getting Started with Machine Learning DotNet for Clustering Model](https://www.codeproject.com/Articles/1265359/Getting-Started-with-Machine-Learning-DotNet-for-C) by Syed Shanu
 * [Machine Learning with ML.Net and C#/VB.Net](https://www.codeproject.com/Articles/1249611/Machine-Learning-with-ML-Net-and-Csharp-VB-Net) by Dirk Bahle
+
+## Papers
+
+## Community 
+
+
+
+
+
 
