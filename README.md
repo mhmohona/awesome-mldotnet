@@ -19,6 +19,7 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [Conference](#conference)
 * [Blog](#blog)
 * [Papers](#papers)
+* [Podcast](#podcast)
 * [Community](#community)
 
 
@@ -50,6 +51,11 @@ A collection of awesome ML.NET tutorial, blog and book.
 * [Machine Learning with ML.Net and C#/VB.Net](https://www.codeproject.com/Articles/1249611/Machine-Learning-with-ML-Net-and-Csharp-VB-Net) by Dirk Bahle
 
 ## Papers
+
+## Podcast
+
+* [Machine Learning With ML Dot NET](https://soundcloud.com/esc-podcast/machine-learning-with-ml-dot-net) by John Alexander,  Sr. Content Developer at Microsoft
+* [ml.net with chris lauren](#https://msdevshow.com/2018/11/ml-net-with-chris-lauren/) by Chris White Program Manager at Microsoft
 
 ## Community 
 
