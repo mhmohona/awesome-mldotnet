@@ -7,7 +7,7 @@ A collection of awesome ML.NET tutorial, blog and book.
 </p>
 
 ## What is ML.Net?
-
+[ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) is a cross-platform open-source machine learning framework that makes machine learning accessible to .NET developers.
 
 
 ## Index
