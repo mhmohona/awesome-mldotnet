@@ -38,7 +38,11 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Projects
 
+
 ## Tools
+
+*
+* [Try .NET](https://github.com/dotnet/try) is an interactive documentation generator for .NET Core.
 
 ## Conference
 
