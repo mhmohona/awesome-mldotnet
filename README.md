@@ -1,6 +1,6 @@
 # Awesome ML.Net [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A collection of awesome ML.NET tutorial, blog and projects.
+A collection of awesome ML.NET tutorials, blogs and projects.
 
 <p align="center">
   <img width="600" height="300" src="/photos/MLdotNET.jpg">
