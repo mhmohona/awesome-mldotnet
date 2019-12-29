@@ -42,8 +42,8 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Tools
 
-*
-* [Try .NET](https://github.com/dotnet/try) is an interactive documentation generator for .NET Core.
+* [Visual Studio](https://visualstudio.microsoft.com)
+* [Try .NET](https://github.com/dotnet/try) 
 
 ## Conference
 
@@ -54,6 +54,8 @@ A collection of awesome ML.NET tutorial, blog and book.
 ## Papers
 
 * [Machine Learning at Microsoft with ML.NET](https://dl.acm.org/doi/10.1145/3292500.3330667)
+* [ML-Net: multi-label classification of biomedical texts with deep neural networks](https://academic.oup.com/jamia/article/26/11/1279/5522430)
+* [From the Edge to the Cloud: Model Serving in ML.NET](https://spl.snu.ac.kr/wp-content/uploads/2012/07/p46.pdf)
 
 
 ## Podcast
