@@ -53,6 +53,9 @@ A collection of awesome ML.NET tutorial, blog and book.
 
 ## Papers
 
+* [Machine Learning at Microsoft with ML.NET](https://dl.acm.org/doi/10.1145/3292500.3330667)
+
+
 ## Podcast
 
 * [Machine Learning With ML Dot NET](https://soundcloud.com/esc-podcast/machine-learning-with-ml-dot-net) by John Alexander,  Sr. Content Developer at Microsoft
