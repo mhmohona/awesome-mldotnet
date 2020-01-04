@@ -12,6 +12,7 @@ A collection of awesome ML.NET tutorials, blogs and projects.
 
 ## Index
 
+* [Documentation](#documentation)
 * [Libraries](#libraries)
 * [Tutorial](#tutorial)
 * [Projects](#projects)
@@ -22,6 +23,10 @@ A collection of awesome ML.NET tutorials, blogs and projects.
 * [Blog](#blog)
 * [Community](#community)
 
+
+## Documentation
+
+* [ML.NET Documentation](https://docs.microsoft.com/en-us/dotnet/machine-learning/)
 
 ## Libraries
 
