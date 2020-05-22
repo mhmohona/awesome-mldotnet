@@ -85,4 +85,4 @@ A collection of awesome ML.NET tutorials, blogs and projects.
 
 
 
-*Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.*
+*Feedback: If you have any idea or you want any other content to be added to this list, feel free to contribute.*
