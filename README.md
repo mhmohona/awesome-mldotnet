@@ -41,7 +41,7 @@ A collection of awesome ML.NET tutorials, blogs and projects.
 
 
 ## Projects
-
+ML.NET Samples
 
 ## Tools
 
